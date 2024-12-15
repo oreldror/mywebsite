@@ -1,0 +1,73 @@
+Python 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> input, textarea {
+  File "<python-input-0>", line 1
+    input, textarea {
+                    ^
+SyntaxError: '{' was never closed
+>>>     padding: 10px;
+  File "<python-input-1>", line 1
+    padding: 10px;
+IndentationError: unexpected indent
+>>>     margin: 10px 0;
+  File "<python-input-2>", line 1
+    margin: 10px 0;
+IndentationError: unexpected indent
+>>>     border: none;
+  File "<python-input-3>", line 1
+    border: none;
+IndentationError: unexpected indent
+>>>     border-radius: 5px;
+  File "<python-input-4>", line 1
+    border-radius: 5px;
+IndentationError: unexpected indent
+>>>     font-size: 1rem;
+  File "<python-input-5>", line 1
+    font-size: 1rem;
+IndentationError: unexpected indent
+>>> }
+  File "<python-input-6>", line 1
+    }
+    ^
+SyntaxError: unmatched '}'
+>>> input[type="submit"] {
+  File "<python-input-7>", line 1
+    input[type="submit"] {
+          ^^^^^^^^^^^^^
+SyntaxError: invalid syntax. Maybe you meant '==' or ':=' instead of '='?
+>>>     background: #007bff;
+  File "<python-input-8>", line 1
+    background: #007bff;
+IndentationError: unexpected indent
+>>>     color: white;
+  File "<python-input-9>", line 1
+    color: white;
+IndentationError: unexpected indent
+>>>     cursor: pointer;
+  File "<python-input-10>", line 1
+    cursor: pointer;
+IndentationError: unexpected indent
+>>>     transition: background 0.3s;
+  File "<python-input-11>", line 1
+    transition: background 0.3s;
+IndentationError: unexpected indent
+>>> }
+  File "<python-input-12>", line 1
+    }
+    ^
+SyntaxError: unmatched '}'
+>>> input[type="submit"]:hover {
+  File "<python-input-13>", line 1
+    input[type="submit"]:hover {
+          ^^^^^^^^^^^^^
+SyntaxError: invalid syntax. Maybe you meant '==' or ':=' instead of '='?
+>>>     background: #0056b3;
+  File "<python-input-14>", line 1
+    background: #0056b3;
+IndentationError: unexpected indent
+>>> }
+  File "<python-input-15>", line 1
+    }
+    ^
+SyntaxError: unmatched '}'
+>>>
