@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Orel Sparrow Dror - Health Coach & Visionary</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background: #f9f9f9;
+            color: #333;
+        }
+
+        header {
+            background: #4CAF50;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        h1, h2 {
+            color: #4CAF50;
+        }
+
+        p {
+            margin-bottom: 15px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 10px;
+            margin-top: 20px;
+            background: #f1f1f1;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Hey, I'm Orel Sparrow Dror</h1>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>
+            I am a health coach, therapist, and leadership teacher.
+            In recent years, I have started learning about crypto and AI agents,
+            and these technologies are beginning to integrate with my dreams and goals.
+        </p>
+    </section>
+
+    <section>
+        <h2>What I'm Working On</h2>
+        <p>
+            My dream is to build a smart village where all systems work in full automation—
+            from growing vegetables and preparing food, to generating energy and recycling resources for other uses.
+            This village will support its citizens to live healthy, high-quality lives with an abundance of wealth.
+            The goal is to leave them free to learn, create, and invent solutions and values for the rest of humanity.
+        </p>
+    </section>
+
+    <footer>
+        <p>© 2024 Orel Sparrow Dror | Health Coach, Therapist, and Visionary</p>
+    </footer>
+</body>
+</html>
